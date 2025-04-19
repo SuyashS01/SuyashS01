@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuyashS05?tab=repositories](https://github.com/SuyashS05?tab=repositories)
 
-- 💬 Ask me about **flutter dart web-dev**
+- 💬 Ask me about **#flutter dart web-dev**
 
 - 📫 How to reach me **suyashskotkar@gmail.com**
 
